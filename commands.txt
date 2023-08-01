@@ -3,4 +3,9 @@ git status
 git add
 git log
 git restore
-rm 
+git rm --chache
+git log
+git log --oneline
+git log --oneline --pretty
+git config --global user.name
+git config --global email
